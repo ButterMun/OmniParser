@@ -1,5 +1,5 @@
 # OmniParser: Screen Parsing tool for Pure Vision Based GUI Agent
-
+ИЗМЕНЕНИЕ!
 <p align="center">
   <img src="imgs/logo.png" alt="Logo">
 </p>
